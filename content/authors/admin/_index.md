@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 刘荣辉
 
 # Is this the primary user of the site?
 superuser: true
